@@ -15,8 +15,8 @@
         "startDate": "2023",
         "description": "A group project made without frameworks. A text-based game with custom music and graphics.",
         "images": [
-          "images/portfolio/ghoulish/GhoulishPic1",
-          "images/portfolio/ghoulish/GhoulishPic2"
+          "images/portfolio/ghoulish/GhoulishPic1.png",
+          "images/portfolio/ghoulish/GhoulishPic2.png"
         ],
         "url": "https://retro-game-201.github.io/Ghoulish-Getaway/",
         "technologies": [
