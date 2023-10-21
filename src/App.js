@@ -91,6 +91,7 @@ class App extends Component {
           </Route>
           <Route 
             path="/about" 
+            //the element IS the component
             element={<About
               resumeBasicInfo={this.state.resumeData.basic_info}
               sharedBasicInfo={this.state.sharedData.basic_info}
